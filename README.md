@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/%F0%9F%9A%80%20Project-V2-blue)](https://dekuliutesla.github.io/CityGaussianV2/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/TeslaYang123/CityGaussianV2)
 [![](https://img.shields.io/badge/📄-中文解读-red)](https://zhuanlan.zhihu.com/p/26862925999)
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hu7ezBp4)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/CityGaussian)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -54,7 +55,9 @@ Note for street view, the F1-Score is lower than that reported in paper, since w
 </details>
 
 ## 📰 News
-**[2025.03.26]** The repo now belongs to the research organization [Linketic](https://github.com/Linketic). A [Discord](https://github.com/Linketic/CityGaussian/pull/139#issuecomment-2753354951) is coming soon for in-time communication.
+**[2025.04.04]** A [Discord](https://discord.gg/Hu7ezBp4) is now available. Come for a deeper and more instant communication about city reconstruction!
+
+**[2025.03.26]** The repo now belongs to the research organization [Linketic](https://github.com/Linketic).
 
 **[2025.01.31]** Checkpoints of CityGaussian V2 has been released!
 
