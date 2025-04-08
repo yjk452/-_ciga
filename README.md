@@ -101,14 +101,13 @@ This work is under the <a rel="license" href="http://creativecommons.org/license
 ## 🤗 Citation
 If you find this repository useful, please use the following BibTeX entry for citation.
 ```latex
-@misc{liu2024citygaussianv2efficientgeometricallyaccurate,
-      title={CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes}, 
-      author={Yang Liu and Chuanchen Luo and Zhongkai Mao and Junran Peng and Zhaoxiang Zhang},
-      year={2024},
-      eprint={2411.00771},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.00771}, 
+@inproceedings{
+    liu2024citygaussianv2,
+    title={CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes},
+    author={Yang Liu and Chuanchen Luo and Zhongkai Mao and Junran Peng and Zhaoxiang Zhang},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=a3ptUbuzbW}
 }
 ```
 
