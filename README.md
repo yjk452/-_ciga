@@ -15,6 +15,7 @@
 [![](https://img.shields.io/badge/📄-中文解读-red)](https://zhuanlan.zhihu.com/p/26862925999)
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hu7ezBp4)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/CityGaussian)
+![GitHub forks](https://img.shields.io/github/forks/Linketic/CityGaussian)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
